@@ -1,0 +1,16 @@
+body {
+  background: #f1f1f1;
+}
+
+.links line {
+  stroke: #ddd;
+  stroke-opacity: 0.5;
+}
+
+circle.hover {
+  opacity: 0.5
+}
+
+.helper #resize-helper {
+  cursor: -webkit-grab;
+}
